@@ -1,5 +1,5 @@
 {
-  "name": "textlint-rule-ja-no-mixed-period",
+  "name": "textlint-rule-en-no-mixed-period",
   "repository": {
     "type": "git",
     "url": "https://github.com/textlint-ja/textlint-rule-ja-no-mixed-period.git"
@@ -17,7 +17,7 @@
   ],
   "version": "3.0.2",
   "description": "文末の句点(。)の統一 OR 抜けをチェックするtextlintルール",
-  "main": "lib/textlint-rule-ja-no-mixed-period.js",
+  "main": "lib/textlint-rule-en-no-mixed-period.js",
   "directories": {
     "test": "test"
   },
